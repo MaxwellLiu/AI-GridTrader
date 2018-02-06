@@ -11,7 +11,7 @@ classdef TreeGrid
     end
     
     methods
-        function obj = DecisionTreeGrid(Parameter, x, y, pr)
+        function obj = TreeGrid(Parameter, x, y, pr)
             
             obj.Parameter = Parameter;
             obj.x = x;
