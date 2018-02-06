@@ -8,11 +8,17 @@ As we all know, it's impossible for one quantitative trading company, like RENAI
 This version can't be work without suitable input. Take it as an architecture for AI+Trading.
 
 This project had been designed:
+
 == train -> cross validation to avoid overfitting -> test -> evaluation -> model selection
+
 == clear function
+
 == object oriented
+
 == support parallel computing
+
 == link live trading
 
 by Maxwell, was cofounder of the company, General Manager after acquisition. 
+
 2018-02-06.[Today is remarkable, Dow Jones Industrial Average Index is crash, so is BitCoin. You know, it's not hard for an automatic trading system to recognize this pattern and short it.]
